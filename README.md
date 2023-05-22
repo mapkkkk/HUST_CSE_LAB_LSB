@@ -1,5 +1,6 @@
 # HUST_CSE_LAB_LSB
 LSB method hide information
+华中科技大学网络空间安全学院网安实践2 LSB隐写
 
 使用说明:
 1. 需要安装pillow,numpy,matplotlib,opencv,即pip3 install pillow numpy matplotlib
